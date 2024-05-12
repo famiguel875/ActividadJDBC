@@ -1,6 +1,6 @@
 package dao
 
-import Product
+import entity.Product
 import db_connection.DataSourceFactory
 import java.sql.Connection
 import java.sql.PreparedStatement
